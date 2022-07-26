@@ -2,4 +2,6 @@
 
     Edwin Arteaga tiene 30 a~nos y nacio en Colombia
 
+    main 1
+
     Ma~nana nos enfocaremos en su trabajo
